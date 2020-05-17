@@ -1,5 +1,7 @@
 # Project 1 - *Simple ToDo App*
 
+https://courses.codepath.org/snippets/android_university/prework
+
 **Simple ToDo App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Samina Qazi**
